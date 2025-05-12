@@ -22,6 +22,7 @@ NaiveBayes-Classifier/
 │   └── t.png             # Summary comparison table
 ├── NaiveBayes.ipynb
 ├── NaiveBayes.oobn
+├── main.tex
 ├── README.md
 └── requirements.txt
 ```
