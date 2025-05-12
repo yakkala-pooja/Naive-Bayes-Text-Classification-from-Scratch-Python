@@ -1,0 +1,2 @@
+# Naive-Bayes-Text-Classification-from-Scratch-Python
+This project implements a Naive Bayes text classifier from scratch using Python, showcasing the algorithm's fundamental concepts. It covers essential steps like text preprocessing, feature extraction, and model training, all without relying on external libraries like Scikit-learn, offering a clear and educational approach to text classification.
