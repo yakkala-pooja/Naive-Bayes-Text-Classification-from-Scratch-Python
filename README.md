@@ -115,15 +115,15 @@ You can either:
 
 ### Without Laplace:
 
-\[
+$$
 P(w|c) = \frac{\text{count}(w, c)}{\sum_{w'} \text{count}(w', c)}
-\]
+$$
 
 ### With Laplace Smoothing:
 
-\[
+$$
 P(w|c) = \frac{\text{count}(w, c) + 1}{\text{total words in class} + |V|}
-\]
+$$
 
 ---
 
